@@ -2,7 +2,11 @@
 
 I am a Computer Science Student at KdG college in Belgium.
 
+I have experience in:
 
+My Skills 💬:
+
+- <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java logo" width="50" height="50">
 
 <!--
 **BeauFrans/BeauFrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
