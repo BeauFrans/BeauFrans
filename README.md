@@ -6,7 +6,7 @@ I am a Computer Science Student at KdG college in Belgium.
 
 My Skills 💬:
 
- <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="java logo" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="java logo" width="50" height="50">
+ <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="java logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="java logo" width="50" height="50">
 
 <!--
 **BeauFrans/BeauFrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
