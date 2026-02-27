@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Beau Frans
 
-I am a Computer Science Student at KdG college in Belgium.
+I am a Computer Science Student at KdG University in Belgium.
 
 ---
 
